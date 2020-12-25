@@ -6,5 +6,5 @@ from selenium import webdriver. </br>
 And then we initialize our driver with the path of our browser driver.</br>
 
 Step 2: pip install -r requirements.txt </br>
-Step 3: python crawling_pages_with_selenium.py
+Step 3: python crawling_pages_with_selenium.py </br>
 Data is saved job_details.css.
