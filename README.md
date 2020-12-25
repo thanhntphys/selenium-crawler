@@ -5,4 +5,6 @@ Selenium for doing its work opens a browser. The browser can be chrome or firefo
 from selenium import webdriver.
 And then we initialize our driver with the path of our browser driver.
 
-Step 2:    
+Step 2: pip install -r requirements.txt
+Step 3: python crawling_pages_with_selenium.py
+Data is saved job_details.css.
