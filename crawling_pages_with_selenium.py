@@ -3,8 +3,8 @@ from selenium.webdriver.common.keys import Keys
 import  time
 import pandas as pd
 
-# Open up a Firefox browser and navigate to web page.
-PATH = "C:\Program Files (x86)\chromedriver.exe"
+# Open up a Chrome browser and navigate to web page.
+PATH = "C:\Program Files (x86)\chromedriver.exe" # PATH chromedriver.exe
 driver = webdriver.Chrome(PATH)
 driver.get("https://www.vietnamworks.com/")
 
